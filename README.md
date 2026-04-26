@@ -5,18 +5,20 @@
 <h1 align="center">Hola, soy Juan 👋</h1>
 
 <p align="center">
-  <strong>Consultor en análisis de datos, automatización e implementación de soluciones tecnológicas.</strong>
+  <strong>Consultor en datos, automatización y sistemas de decisión.</strong>
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy economista con más de una década de experiencia como **consultor en análisis de datos, diseño de soluciones y automatización de procesos** para organizaciones públicas y privadas.
+Soy consultor especializado en **análisis de datos, automatización y diseño de sistemas**, con más de una década de experiencia implementando soluciones para organizaciones públicas y privadas.
 
 Mi enfoque está en transformar información compleja en **sistemas funcionales, herramientas automatizadas y decisiones accionables**, combinando pensamiento analítico con desarrollo tecnológico.
 
 A lo largo de mi trayectoria he colaborado con instituciones de gobierno en México, pero mi principal fortaleza está en la **consultoría transversal**, desarrollando soluciones aplicables a distintos sectores: salud, financiero, social y empresarial.
+
+He desarrollado soluciones que han **reducido significativamente cargas operativas, optimizado procesos críticos y habilitado la toma de decisiones basada en datos en entornos complejos.**
 
 ---
 
@@ -31,8 +33,24 @@ A lo largo de mi trayectoria he colaborado con instituciones de gobierno en Méx
 * 🌐 **Desarrollo de soluciones tecnológicas**
   Aplicaciones web, dashboards interactivos y sistemas “local-first”.
 
-* 🧠 **Diseño de sistemas de decisión**
+* 🧠 **Sistemas de decisión**
   Construcción de métricas, modelos de riesgo y herramientas para soporte estratégico.
+
+---
+
+## 🚀 Proyectos destacados
+
+* 🔧 **Automatización de extracción de datos clínicos**
+  Desarrollo de motores en Python para convertir PDFs en estructuras analíticas automatizadas (data pipelines).
+
+* 📊 **Sistemas de monitoreo y dashboards operativos**
+  Implementación de herramientas interactivas para visualización y seguimiento en tiempo real.
+
+* 🤖 **Automatización de procesos y flujos ETL**
+  Integración de datos desde múltiples fuentes para eliminar procesos manuales y mejorar eficiencia operativa.
+
+* 🌐 **Sistemas web para operación en campo**
+  Desarrollo de soluciones “local-first” con enfoque en rendimiento, usabilidad y autonomía operativa.
 
 ---
 
@@ -50,54 +68,10 @@ A lo largo de mi trayectoria he colaborado con instituciones de gobierno en Méx
 
 ---
 
-## 🚀 Experiencia Relevante
-
-### 🧩 Consultoría y desarrollo de soluciones (Core)
-
-Más de 10 años diseñando e implementando:
-
-* Sistemas de análisis y monitoreo
-* Automatización de procesos operativos
-* Herramientas para toma de decisiones
-* Aplicaciones orientadas a negocio
-
-Participación en proyectos de:
-
-* investigación aplicada
-* desarrollo social
-* inteligencia de mercado
-* análisis estratégico
-
----
-
-### ⚕️ Soluciones en datos y automatización
-
-* Desarrollo de motores de extracción de datos desde PDFs a estructuras analíticas
-* Integración de información en pipelines automatizados
-* Reducción significativa de trabajo manual en procesos críticos
-
----
-
-### 📊 Modelos analíticos y financieros
-
-* Construcción de métricas de riesgo
-* Evaluación de información financiera a gran escala
-* Modelos de pérdida esperada y análisis estructurado
-
----
-
-### 🌐 Sistemas y visualización
-
-* Dashboards interactivos y geográficos
-* Sistemas web para operación en campo
-* Interfaces enfocadas en eficiencia operativa
-
----
-
 ## 🧠 Cómo trabajo
 
 * Pensamiento estructurado + ejecución técnica
-* Enfoque en eficiencia y escalabilidad
+* Enfoque en eficiencia, escalabilidad y automatización
 * Capacidad para traducir problemas complejos en soluciones simples
 * Trabajo colaborativo con equipos multidisciplinarios
 
