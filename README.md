@@ -1,92 +1,54 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Juan%20S%C3%A1nchez&fontSize=60&fontAlignY=35&desc=Data%20%7C%20Automation%20%7C%20Systems&descAlignY=55" />
+
+# Juan Sánchez
+
+**Datos · Automatización · Sistemas de decisión**
+
+Consultor y desarrollador de soluciones que convierten información compleja en procesos claros, herramientas útiles y decisiones accionables.
+
+[![GitHub](https://img.shields.io/badge/GitHub-mexjsa-181717?style=flat-square&logo=github)](https://github.com/mexjsa)
+[![Email](https://img.shields.io/badge/Email-jsamex%40icloud.com-4B5563?style=flat-square&logo=maildotru&logoColor=white)](mailto:jsamex@icloud.com)
+
 </div>
 
-<h1 align="center">Hola, soy Juan 👋</h1>
+## Sobre mi trabajo
 
-<p align="center">
-  <strong>Consultor en datos, automatización y sistemas de decisión.</strong>
-</p>
+Diseño e implemento soluciones para organizaciones públicas y privadas, combinando análisis de datos, automatización y desarrollo web. Mi objetivo es reducir trabajo manual, hacer visibles los indicadores importantes y dejar sistemas que los equipos puedan operar y mantener.
 
----
+Mi experiencia incluye proyectos para salud, servicios sociales, operación en campo y procesos empresariales.
 
-## 🧠 Sobre mí
+## Áreas de especialidad
 
-Soy consultor especializado en **análisis de datos, automatización y diseño de sistemas**, con más de una década de experiencia implementando soluciones para organizaciones públicas y privadas.
+- **Datos y analítica:** modelado, indicadores, evaluación y visualización.
+- **Automatización:** ETL, extracción de información, scraping responsable y flujos repetibles.
+- **Aplicaciones web:** dashboards, herramientas operativas y sistemas local-first.
+- **Sistemas de decisión:** métricas, modelos de riesgo y seguimiento de casos.
+- **Integración:** APIs, Supabase, Firebase, PostgreSQL, SQLite y GitHub Actions.
 
-Mi enfoque está en transformar información compleja en **sistemas funcionales, herramientas automatizadas y decisiones accionables**, combinando pensamiento analítico con desarrollo tecnológico.
+## Proyectos públicos seleccionados
 
-A lo largo de mi trayectoria he colaborado con instituciones de gobierno en México, pero mi principal fortaleza está en la **consultoría transversal**, desarrollando soluciones aplicables a distintos sectores: salud, financiero, social y empresarial.
+- [Nexos](https://github.com/mexjsa/nexos) — sitio y presencia digital para una propuesta de servicios de automatización.
+- [Roadkill](https://github.com/mexjsa/roadkill) — aplicación web con frontend moderno y flujo de construcción con Vite.
+- [Mundial Simulator](https://github.com/mexjsa/mundial_simulator) — simulación y seguimiento de escenarios deportivos.
+- [SaludMental](https://github.com/mexjsa/saludmental) — prototipo de aplicación web con panel y servicios de datos.
+- [Calle 9 Web](https://github.com/mexjsa/calle9_web) — sitio web estático y optimización de recursos.
 
-He desarrollado soluciones que han **reducido significativamente cargas operativas, optimizado procesos críticos y habilitado la toma de decisiones basada en datos en entornos complejos.**
+Algunos proyectos de clientes y repositorios de trabajo son privados, por lo que no se detallan públicamente.
 
----
+## Principios de trabajo
 
-## ⚙️ En qué soy fuerte
+- Claridad antes que complejidad.
+- Automatización con trazabilidad.
+- Seguridad y privacidad desde el diseño.
+- Datos que ayudan a decidir, no solo a acumularse.
+- Entregas pequeñas, comprobables y mantenibles.
 
-* 📊 **Análisis de datos avanzado**
-  Modelado, evaluación, diseño de indicadores y explotación de grandes volúmenes de información.
+## Herramientas
 
-* 🤖 **Automatización de procesos**
-  Reducción de carga operativa mediante scripts, flujos ETL y herramientas inteligentes.
+**Python · JavaScript · SQL · React · Flask · PostgreSQL · Supabase · Firebase · SQLite · Git · GitHub Actions · Power BI · QGIS**
 
-* 🌐 **Desarrollo de soluciones tecnológicas**
-  Aplicaciones web, dashboards interactivos y sistemas “local-first”.
+## Contacto
 
-* 🧠 **Sistemas de decisión**
-  Construcción de métricas, modelos de riesgo y herramientas para soporte estratégico.
-
----
-
-## 🚀 Proyectos destacados
-
-* 🔧 **Automatización de extracción de datos clínicos**
-  Desarrollo de motores en Python para convertir PDFs en estructuras analíticas automatizadas (data pipelines).
-
-* 📊 **Sistemas de monitoreo y dashboards operativos**
-  Implementación de herramientas interactivas para visualización y seguimiento en tiempo real.
-
-* 🤖 **Automatización de procesos y flujos ETL**
-  Integración de datos desde múltiples fuentes para eliminar procesos manuales y mejorar eficiencia operativa.
-
-* 🌐 **Sistemas web para operación en campo**
-  Desarrollo de soluciones “local-first” con enfoque en rendimiento, usabilidad y autonomía operativa.
-
----
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,firebase,supabase,githubactions&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,git,vscode,figma,md&theme=dark" />
-</div>
-
-* **Lenguajes:** Python, JavaScript, SQL
-* **Data & Analytics:** Stata, Power BI, QGIS, Bloomberg
-* **Infraestructura & Web:** Firebase, Supabase, APIs, dashboards interactivos
-* **Automatización:** ETL, scraping avanzado, bots, GitHub Actions
-
----
-
-## 🧠 Cómo trabajo
-
-* Pensamiento estructurado + ejecución técnica
-* Enfoque en eficiencia, escalabilidad y automatización
-* Capacidad para traducir problemas complejos en soluciones simples
-* Trabajo colaborativo con equipos multidisciplinarios
-
----
-
-## 🤝 Conectemos
-
-<div align="center">
-  <a href="mailto:jsamex@icloud.com"><img src="https://img.shields.io/badge/Email-jsamex%40icloud.com-blue?style=for-the-badge&logo=apple&logoColor=white" /></a>
-  <a href="mailto:juan.sanchez.arellano@gmail.com"><img src="https://img.shields.io/badge/Gmail-juan.sanchez.arellano%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/525514803488"><img src="https://img.shields.io/badge/WhatsApp-+52_55_1480_3488-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mexjsa&show_icons=true&theme=tokyonight&locale=es" />
-</div>
+- [Email](mailto:jsamex@icloud.com)
+- [Gmail](mailto:juan.sanchez.arellano@gmail.com)
+- [WhatsApp](https://wa.me/525514803488)
