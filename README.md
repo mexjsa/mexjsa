@@ -47,8 +47,18 @@ Algunos proyectos de clientes y repositorios de trabajo son privados, por lo que
 
 **Python · JavaScript · SQL · React · Flask · PostgreSQL · Supabase · Firebase · SQLite · Git · GitHub Actions · Power BI · QGIS**
 
+## ¿Tienes un proceso que mejorar?
+
+Cuéntame qué está frenando a tu operación y preparo una primera conversación con el contexto correcto.
+
+<a href="https://wa.me/525514803488?text=Hola%20Juan%2C%20quiero%20explorar%20una%20soluci%C3%B3n%20para%20mejorar%20un%20proceso.%20Mi%20nombre%20es%3A%20" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Solicitar%20diagn%C3%B3stico-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Solicitar diagnóstico por WhatsApp" />
+</a>
+
+Al abrir WhatsApp podrás completar tu nombre y explicar brevemente el problema, el proceso o la oportunidad que quieres revisar. Si necesitas un flujo con formulario y captura de nombre, correo y teléfono, puedes ver la experiencia de [Nexos IA](https://github.com/mexjsa/nexos).
+
 ## Contacto
 
 - [Email](mailto:jsamex@icloud.com)
 - [Gmail](mailto:juan.sanchez.arellano@gmail.com)
-- [WhatsApp](https://wa.me/525514803488)
+- [WhatsApp directo](https://wa.me/525514803488)
